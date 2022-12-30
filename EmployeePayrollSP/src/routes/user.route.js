@@ -40,17 +40,7 @@ export default router;
 
 
 
-//route to get a single user by their user id
-// router.get('/:id', userAuth, userController.getUser);
 
-//route to update a single user by their user id
-// router.put('/:id', userController.updateUser);
-
-//route to delete a single user by their user id
-// router.delete('/:id', userController.deleteUser);
-
-//route to get all users
-// router.get('', userController.getAllUsers);
 
 
 
